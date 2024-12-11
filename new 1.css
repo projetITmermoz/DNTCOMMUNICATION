@@ -1,0 +1,67 @@
+/* Général */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Titres */
+h1 {
+    color: #2a9d8f;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    color: #264653;
+    margin-top: 20px;
+}
+
+/* Paragraphes */
+p {
+    margin: 15px;
+    padding: 10px;
+    background: #e9ecef;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Listes */
+ul {
+    margin: 20px;
+    padding-left: 40px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Images */
+img {
+    display: block;
+    margin: 10px auto;
+    max-width: 90%;
+    height: auto;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+}
+
+/* Liens */
+a {
+    color: #e76f51;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Conteneur pour les liens */
+div {
+    text-align: center;
+    margin: 20px 0;
+}

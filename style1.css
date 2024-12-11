@@ -1,0 +1,24 @@
+h1
+{
+font-family: "Comic Sans MS", Brush Script MT, Brush Script Std, cursive;
+font-size: 48px;
+}
+h2
+{
+font-family: "Courier New", Courier, monospace;
+font-size: 36px;
+}
+h3
+{
+font-family: "Courier New", American Typewriter, serif;
+font-size: 20px;
+}
+body
+{
+background-image: url("fondecrancss.jpg");
+font-family: Brush Script MT, Brush Script Std, cursive;
+padding: 5px 25px;
+font-size: 18px;
+margin: 0;
+color: #0088f3;
+}
